@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Привет всем!
+# Hello, everybody!
 
-Меня зовут Кузнецов Арсений, и я тут размещаю код, который не хочу потерять и который возможно, когда-нибудь, пригодиться сообществу.
+My name is Arseniy, and here I am posting the code that I don't want to lose and which may someday be useful to the community. 
